@@ -11,10 +11,10 @@ const Hero = () => {
         <div className="text-center">
           <img src="/datenschutz/Designer.png" alt="Logo" className="h-20 w-20 mx-auto mb-8" />
             <h1 className="text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 pb-4 break-words">
-                Datenschutzerklärung
+                Impressum
             </h1>
           <p className="mt-6 text-lg md:text-xl text-neutral-300 max-w-2xl mx-auto">
-            Wir nehmen den Schutz ihrer Daten ernst. Lernen sie wie wir Daten sammeln, nutzen, und den Schutz ihrer Daten gewährleisten.
+            Willkommen auf unserer Impressum-Seite. Hier finden Sie alle rechtlichen Informationen und Details zum Webseitenbetreiber.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
             <a
