@@ -60,6 +60,22 @@ const Policy: React.FC = () => {
                 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
             </p>
 
+            <h2 className="text-2xl font-semibold mt-8 mb-4">Weitere rechtliche Hinweise</h2>
+            <p className="mb-4">
+                Bitte beachten Sie auch unsere{" "}
+                <a href="https://zacklack.de/datenschutz" className="text-blue-400 underline">
+                    Datenschutzerklärung
+                </a>{" "}
+                ,{" "}
+                <a href="https://zacklack.de/cookies" className="text-blue-400 underline">
+                    Cookie-Richtlinie
+                </a>.
+                und unsere{" "}
+                <a href="https://zacklack.de/nutzungsbedingungen" className="text-blue-400 underline">
+                    Nutzungsbedingungen
+                </a>
+            </p>
+
             <p className="mt-8 text-sm text-gray-400">
                 Stand: 9.2.2025
             </p>
