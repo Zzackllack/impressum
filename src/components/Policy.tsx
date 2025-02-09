@@ -69,7 +69,7 @@ const Policy: React.FC = () => {
                 ,{" "}
                 <a href="https://zacklack.de/cookies" className="text-blue-400 underline">
                     Cookie-Richtlinie
-                </a>.
+                </a>
                 und unsere{" "}
                 <a href="https://zacklack.de/nutzungsbedingungen" className="text-blue-400 underline">
                     Nutzungsbedingungen
